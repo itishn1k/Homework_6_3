@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework_6_3</string>
+    <string name="hashtag">#</string>
+    <string name="save">save</string>
+    <string name="type_to_see_saved_words">Type \'#\' to see saved words</string>
+    <string name="hashtaghashtag">#Hashtag</string>
+    <string name="hh">#</string>
+    <string name="space">\" \"</string>
+</resources>
